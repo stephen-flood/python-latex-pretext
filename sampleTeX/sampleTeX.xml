@@ -1,0 +1,14 @@
+<dom-document xmlns:plastex="http://plastex.sf.net/">
+lalala <math id="a0000000001">
+here is math</math> <displaymath id="a0000000002">
+ here is more math</displaymath> have some <textbf id="a0000000003">
+    <plastex:arg name="self">bold text</plastex:arg>
+</textbf> <enumerate id="a0000000004">
+    <plastex:arg name="type"/>
+<item ref="<theenumi id="a0000000005" xmlns:plastex="http://plastex.sf.net/"/>" id="a0000000006">
+    <plastex:arg name="term"/>
+<par id="a0000000007">
+Today is a great day </par></item><item ref="<theenumi id="a0000000008" xmlns:plastex="http://plastex.sf.net/"/>" id="a0000000009">
+    <plastex:arg name="term"/>
+<par id="a0000000010">
+It is sunny and happy </par></item></enumerate> </dom-document>

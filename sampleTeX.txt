@@ -1,0 +1,8 @@
+lalala
+$here is math$
+$$ here is more math$$
+have some \textbf{bold text}
+\begin{enumerate}
+	\item Today is a great day
+	\item It is sunny and happy
+\end{enumerate}
